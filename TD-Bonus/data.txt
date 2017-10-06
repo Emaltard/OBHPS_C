@@ -1,0 +1,12 @@
+service:min
+data:10;2;3;4;5;6;7;8;9
+request:min
+service:max
+data:1;2;3;4;5;6;7;8;920
+request:max
+service:avg
+data:1;2;3;4;5;63;7;8;9
+request:avg
+service:med
+data:1;2;3;4;5;6;7;8;9
+request:med
