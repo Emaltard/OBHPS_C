@@ -10,3 +10,6 @@ request:avg
 service:med
 data:1;2;3;4;5;6;7;8;9
 request:med
+service:avg-Max
+data:1;9;4;59;71;44;22
+request:avg
